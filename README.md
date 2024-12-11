@@ -10,5 +10,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="50" height="50">
-  <img src="https://s.w.org/images/core/WordPress-logotype-simplified.svg" alt="WordPress" width="50" height="50"></div>
+</div>
 
